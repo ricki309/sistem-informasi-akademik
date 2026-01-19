@@ -27,11 +27,10 @@ Meskipun sudah ada sistem berbasis web dari Dinas Pendidikan seperti **Rapor Onl
 ## 🛠️ Metodologi Penelitian
 Pengembangan sistem menggunakan pendekatan **Rapid Application Development (RAD)** yang meliputi:  
 1. Identifikasi masalah  
-2. Pengumpulan data (wawancara & studi literatur)  
-3. Perencanaan kebutuhan  
-4. Perancangan sistem (prototype)  
-5. Implementasi (pengkodean sistem)  
-6. Pengujian sistem  
+2. Perencanaan kebutuhan  
+3. Perancangan sistem (prototype)  
+4. Implementasi (pengkodean sistem)  
+5. Pengujian sistem  
 
 ## 📖 Landasan Teori
 - **Sistem Informasi Akademik (SIA)** adalah sistem yang memberikan layanan informasi terkait aspek akademik, mulai dari pendaftaran siswa, penentuan kelas, penjadwalan, hingga asesmen (Mandala & Utnasari, 2021).  
